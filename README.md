@@ -8,7 +8,12 @@ The only thing I will upload is a code made by me that is a transformation of th
 Also, for more information about the model and the process, I've found a nice article https://heartbeat.fritz.ai/research-guide-for-depth-estimation-with-deep-learning-1a02a439b834
 
 
-Here is one of my test:
+For what I've predicted of an image of my living room, I projected it into a scatter 3D plot. The results (knowing the outcome comes from a single image) were amazing:
+
+![](ezgif.com-video-to-gif.gif)
+
+
+And here is one of the other tests:
 
 ![](WIN_20200408_12_27_26_Pro.jpg)
 ![](WIN_20200408_12_27_26_Pro_disp.jpeg)
