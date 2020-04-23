@@ -1,0 +1,1 @@
+python test_simple.py --image_path "C:\Users\diego\Desktop\Scikit, Keras y TensorFlow\CronoChip TFG\test images\runners_bib_1.jpg" --model_name mono+stereo_640x192
