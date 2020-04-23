@@ -13,6 +13,9 @@ For what I've predicted of an image of my living room, I projected it into a sca
 ![](ezgif.com-video-to-gif.gif)
 
 
+**I've made a better implementation (video in the .avi and code in the new_mesh.py). Couldn't convert it to GIF... :(**
+
+
 And here is one of the other tests:
 
 ![](WIN_20200408_12_27_26_Pro.jpg)
